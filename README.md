@@ -1,5 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ancyloce)](https://github.com/anuraghazra/github-readme-stats)
-
 - 👋 Hi, I’m @ancyloce
 - 👀 I’m interested in `React` `Vue` `Golang` `Rust`
 - 🌱 I’m currently learning `Golang` `Rust`
